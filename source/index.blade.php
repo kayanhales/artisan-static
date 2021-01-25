@@ -1,21 +1,18 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p><a href="https://ibb.co/T1rTNdx"><img src="https://i.ibb.co/xY3srdt/40thweddinganniversary-With-NOTHING.png" alt="40thweddinganniversary-With-NOTHING" border="0"></a></p>
+    <h1>YouTube</h1>
+    <p>Coming soon</p>
+    <h1>Zoom</h1>
+    <p>Join Zoom Meeting
+https://us02web.zoom.us/j/82372576873?pwd=M0crNkR0L3ZUQ3V2c1AzcWJvUlZQdz09
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
-
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
-
-    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank">
-        <img src="https://www.ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi">
-    </a>
-
-    <h2 id="test">Asset Compilation Test</h2>
-
-    <p>CSS test: <span class="test-css">text with blue border</span></p>
-
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
+Meeting ID: 823 7257 6873
+Passcode: 511173
+One tap mobile
++19292056099,,82372576873#,,,,*511173# US (New York)</p>
+    
 @endsection
