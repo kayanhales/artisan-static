@@ -11,7 +11,8 @@
 <meta property="og:description" content="Dr. and Mrs. Hales 40th Anniversary">
 <meta property="og:image" content="{{ $page->image ?: media($page->site->image) }}">
 <meta property="og:type" content="{{ $page->isPost ? 'article' : 'website' }}">
-<meta property="og:site_name" content="{{ $page->site->title }}">
+<!--<meta property="og:site_name" content="{{ $page->site->title }}">-->
+<meta property="og:site_name" content="Dr. and Mrs. Hales 40th Anniversary">
 <meta property="og:url" content="{{ $page->getUrl() }}">
 
 <meta name="twitter:title" content="{{ $page->title ?: $page->site->title }}">
