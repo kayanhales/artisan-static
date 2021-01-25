@@ -18,7 +18,7 @@
 </head>
 <body>
     <section>
-        <header>
+        <!--<header>
             <nav>
                 <strong>{{ $page->site->title }}</strong><br>
                 <ul>
@@ -28,7 +28,7 @@
                     <li><a href="/contact">Contact</a></li>
                 </ul>
             </nav>
-        </header>
+        </header>-->
 
         <article>
             <section>
