@@ -1,11 +1,14 @@
 <!-- seo/social -->
 <link rel="canonical" href="{{ $page->getUrl() }}">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<meta name="author" content="{{ $page->owner->name }}">
-<meta name="description" content="{!! $page->excerpt() ?: $page->site->description !!}">
-
-<meta property="og:title" content="{{ $page->title ?: $page->site->title }}">
-<meta property="og:description" content="{!! $page->excerpt() ?: $page->site->description !!}">
+<!--<meta name="author" content="{{ $page->owner->name }}">-->
+<meta name="author" content="Kayan Hales Clarke">
+<!--<meta name="description" content="{!! $page->excerpt() ?: $page->site->description !!}">-->
+<meta name="description" content="Dr. and Mrs. Hales 40th Anniversary">
+<!--<meta property="og:title" content="{{ $page->title ?: $page->site->title }}">-->
+<meta property="og:title" content="Dr. and Mrs. Hales 40th Anniversary">
+<!--<meta property="og:description" content="{!! $page->excerpt() ?: $page->site->description !!}">-->
+<meta property="og:description" content="Dr. and Mrs. Hales 40th Anniversary">
 <meta property="og:image" content="{{ $page->image ?: media($page->site->image) }}">
 <meta property="og:type" content="{{ $page->isPost ? 'article' : 'website' }}">
 <meta property="og:site_name" content="{{ $page->site->title }}">
