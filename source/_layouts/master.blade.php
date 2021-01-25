@@ -4,11 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>
+    <!--<title>
         @yield('title')
         {{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}
         {{ $page->site->title }}
-    </title>
+    </title>-->
+    <title>Dr. and Mrs. Hales 40th Anniversary</title>
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
