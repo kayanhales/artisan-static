@@ -11,17 +11,16 @@
     <p>Meeting ID: 823 7257 6873, Passcode: 511173</p>
     <p>Or Dial-in: +19292056099, Meeting ID: 82372576873#, Passcode: *511173#</p>
     <h1>Program</h1>
-    <p><small> Start time: 4PM. End Time: 6PM</small>
+    <p><small> Start time: 4PM. End Time: 6PM</small></br><small> Master of Ceremonies: Bro. Michael Thompson</small>
         <ol>
-            <li>Arrival of Guests
-            <li>Welcome Guests by the MC - Bro Michael</li>
+            <li>Arrival and Welcome of Guests
             <li>Entrance of Celebrants</li>
             <li>Devotion</li>
-            <li>Welcome remarks by the MC</li>
+            <li>Welcome Remarks</li>
             <li>Love Story of the Celebrants - Kayan Hales Clarke</li>
-            <li>Cake cutting</li>
+            <li>Cake Cutting</li>
             <li>Dinner/Toasts</li>
-            <li>Thank you message from the celebrants</li>
+            <li>Thank You Message from the Celebrants</li>
         <ol>
     </p>
     
