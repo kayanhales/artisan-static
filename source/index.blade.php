@@ -15,7 +15,7 @@
         <ol>
             <li>Arrival and Welcome of Guests
             <li>Entrance of Celebrants</li>
-            <li>Devotion</li>
+            <li>Devotion - Stacia Thompson</li>
             <li>Welcome Remarks</li>
             <li>Love Story of the Celebrants - Kayan Hales Clarke</li>
             <li>Cake Cutting</li>
